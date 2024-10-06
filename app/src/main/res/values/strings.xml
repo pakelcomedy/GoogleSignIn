@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google SignIn Test</string>
+    <string name="default_web_client_id">986977895854-sgl4ingbdvmk9kr0temns8purve38gqq.apps.googleusercontent.com</string>
+</resources>

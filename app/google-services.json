@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986977895854",
+    "project_id": "signin-bc305",
+    "storage_bucket": "signin-bc305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986977895854:android:89f2d2a225ab3a2ffaf43f",
+        "android_client_info": {
+          "package_name": "com.devmoss.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986977895854-tht07bi0c5gnjntr9lrpo3b7on8qo9hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmoss.googlesignin",
+            "certificate_hash": "7c61288893ab56419b30eb59a1bc107878ebf84c"
+          }
+        },
+        {
+          "client_id": "986977895854-sgl4ingbdvmk9kr0temns8purve38gqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKkUjLlAh_WO-A-_koWIqH3s2hWkIcn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986977895854-sgl4ingbdvmk9kr0temns8purve38gqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
